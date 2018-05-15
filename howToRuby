@@ -1,3 +1,7 @@
 http://exercism.io/languages/ruby/exercises
 
+Get Next Problem:
 exercism fetch ruby
+
+Submit Problem:
+exercism submit path/to/file
